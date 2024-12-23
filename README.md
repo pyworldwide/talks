@@ -1,7 +1,7 @@
 # PyWorldWide Meetup Talks
 
 <p align="center">
-    <img src="./assets/logo/pyworldwise-logo-withoutbg.png" width="10%" />
+    <img src="./assets/logo/pyworldwise-logo-withoutbg.png" width="40%" />
 </p>
 
 To propose a talk, simply create a github issue [here][new-talk-proposal].
