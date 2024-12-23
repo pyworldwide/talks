@@ -1,10 +1,7 @@
 name: 🎙️ Talk Proposal
 description: Create a proposal for your talk at PyWorldWide Monthly Meetups. 
 labels: ["proposal"]
-assignees: 
-  - Mr-Sunglasses
-  - sobolevn
-  - swastika0015
+assignees: ["Mr-Sunglasses"]
 body:
   - type: markdown
     attributes:
