@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 PyWorldWide Telegram
+    url: https://t.me/+4nNa6vSEmk44ZmM9
+    about: Please use the Telegram group to connect with fellow Pythonistas in and around the world.
+  - name: Q/A Forum
+    url: https://github.com/orgs/pyworldwide/discussions
+    about: Use the forum to ask questions about the meetup, help us with Sponsorship, or anything else.
